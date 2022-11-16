@@ -12,4 +12,4 @@ Contact : hadianhaf91@gmail.com
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-110&layout=compact" alt="Top language">
 
-![template_s](https://raw.githubusercontent.com/AKASH-110/AKASH-110/main/logo/wallpaperbetter_(1).jpg)
+![template_s](https://raw.githubusercontent.com/AKASH-110/AKASH-110/main/wallpaperbetter_(1).jpg)
